@@ -29,7 +29,7 @@ const App = () => {
         <div className="col-lg-10">
           <div className="card shadow-sm">
             <div className="card-body">
-              <Dummy />
+              <Dummy title="My Custom Dummy" description="This is a description passed via props from App.tsx!" />
             </div>
           </div>
         </div>
