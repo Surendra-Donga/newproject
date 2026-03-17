@@ -1,5 +1,3 @@
-
-
 const Home = () => {
   return (
     <div className="card-body">

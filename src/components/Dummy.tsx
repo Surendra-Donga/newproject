@@ -1,4 +1,3 @@
-
 import itachiImg from '../assets/itachi.png';
 
 const Dummy = () => {
